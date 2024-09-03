@@ -8,7 +8,7 @@ Introducing the future of healthcare: a groundbreaking medical robot seamlessly 
 
 
 
-OBJECTIVES:/br
+OBJECTIVES:
 Enhanced Patient Care: Medical robots with IoT and AI intelligence aim to deliver personalized medical care through data analysis, leading to improved treatment plans and outcomes.
 
 Innovative Diagnostics: These robots seek to enhance diagnostic accuracy by leveraging AI algorithms to interpret medical data, including images and patient histories.
